@@ -7,7 +7,7 @@
 
 ###  DOM allows programs and scripts to access, manipulate, and update the content, structure, and styles of a web page. JavaScript is commonly used to interact with the DOM in web development, for tasks such as dynamically changing the content of a page or handling user events.
 
-![](./maxresdefault.jpg)
+![](https://avatars.mds.yandex.net/i?id=bead5c70a0a5fcec9d3b055783d6b0f8ab00035a-3947589-images-thumbs&n=13)
 
 # Dom Features
 ### According to the Document Object Model (DOM for short), every HTML tag is an object. Subtags are "children" of the parent element.
